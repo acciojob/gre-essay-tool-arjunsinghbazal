@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+
+const textElement = document.querySelector("#evaluatedText");
+const h3Element = document.querySelector("#wordCount");
+function handleInput(e){
+	
+}
